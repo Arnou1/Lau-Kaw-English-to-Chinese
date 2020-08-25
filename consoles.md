@@ -1,4 +1,4 @@
-### 康叟类/Consoles
+# 康叟类/Consoles
 ## 索尼系列/Sony Consoles
 PlayStation -- 赖世雄
 PlayStation 1 -- 雄蚁
